@@ -1,0 +1,19 @@
+
+.title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.projects {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.pojecte-box{
+ background-color: #333333a9;
+ color: white;
+ padding: 15px 10px;
+ border-radius: 10px;
+}
