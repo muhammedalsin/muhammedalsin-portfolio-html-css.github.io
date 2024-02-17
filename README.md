@@ -1,6 +1,7 @@
 # Portfolio
 * HTML
 * CSS
+* JavaScript
 
 ## Links
 
